@@ -1,0 +1,7 @@
+flask
+flask-socketio
+openai-whisper
+yt-dlp
+nltk
+python-dotenv
+requests
